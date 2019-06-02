@@ -46,7 +46,7 @@ function App() {
         <h1>Rick and morty all episodes</h1>
         <div class="row">
           {links.map((link, index) => (
-            <Video key={index} link={link} />
+            <Video key={'index'} link={link} />
           ))}
         </div>
       </div>
