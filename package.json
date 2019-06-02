@@ -2,7 +2,7 @@
   "name": "rmb",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://rmodi234.github.io/rmodi234",
+  "homepage":"https://rmodi234.github.io/rickandmorty.github.io",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.0.1",

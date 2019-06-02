@@ -40,7 +40,7 @@ function App() {
     "http://dl8.heyserver.in/serial/Rick.and.Morty/S03/480p/Rick.and.Morty.S03E10.480p.HDTV.x264.mkv"
   ];
   return (
-    <React.Fragment>
+    
       <Header />
       <div class="container">
         <h1>Rick and morty all episodes</h1>
@@ -50,7 +50,7 @@ function App() {
           ))}
         </div>
       </div>
-    </React.Fragment>
+    
   );
 }
 
