@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "20b1b8689f0d02e554d5ed4411b01796",
+    "revision": "169409738c75f84d3338cc1812fe4be7",
     "url": "/rickandmorty.github.io/index.html"
   },
   {
-    "revision": "99ac4e042d0e0073b7c6",
+    "revision": "b42cedef17486caa26d9",
     "url": "/rickandmorty.github.io/static/css/main.2cce8147.chunk.css"
   },
   {
-    "revision": "546d2bb72a1c86ebed1c",
-    "url": "/rickandmorty.github.io/static/js/2.628ac23e.chunk.js"
+    "revision": "2049229a38984c5919c4",
+    "url": "/rickandmorty.github.io/static/js/2.85b55783.chunk.js"
   },
   {
-    "revision": "99ac4e042d0e0073b7c6",
-    "url": "/rickandmorty.github.io/static/js/main.746540ac.chunk.js"
+    "revision": "b42cedef17486caa26d9",
+    "url": "/rickandmorty.github.io/static/js/main.29e82295.chunk.js"
   },
   {
     "revision": "fed14d02135936bbf0d6",

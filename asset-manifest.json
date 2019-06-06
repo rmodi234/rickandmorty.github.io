@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/rickandmorty.github.io/static/css/main.2cce8147.chunk.css",
-    "main.js": "/rickandmorty.github.io/static/js/main.746540ac.chunk.js",
-    "main.js.map": "/rickandmorty.github.io/static/js/main.746540ac.chunk.js.map",
+    "main.js": "/rickandmorty.github.io/static/js/main.29e82295.chunk.js",
+    "main.js.map": "/rickandmorty.github.io/static/js/main.29e82295.chunk.js.map",
     "runtime~main.js": "/rickandmorty.github.io/static/js/runtime~main.9b07dd35.js",
     "runtime~main.js.map": "/rickandmorty.github.io/static/js/runtime~main.9b07dd35.js.map",
-    "static/js/2.628ac23e.chunk.js": "/rickandmorty.github.io/static/js/2.628ac23e.chunk.js",
-    "static/js/2.628ac23e.chunk.js.map": "/rickandmorty.github.io/static/js/2.628ac23e.chunk.js.map",
+    "static/js/2.85b55783.chunk.js": "/rickandmorty.github.io/static/js/2.85b55783.chunk.js",
+    "static/js/2.85b55783.chunk.js.map": "/rickandmorty.github.io/static/js/2.85b55783.chunk.js.map",
     "index.html": "/rickandmorty.github.io/index.html",
-    "precache-manifest.105b286c9b63a64a4cc1be0588354ded.js": "/rickandmorty.github.io/precache-manifest.105b286c9b63a64a4cc1be0588354ded.js",
+    "precache-manifest.ccaea2493084fa240b5ace3ea468d7bd.js": "/rickandmorty.github.io/precache-manifest.ccaea2493084fa240b5ace3ea468d7bd.js",
     "service-worker.js": "/rickandmorty.github.io/service-worker.js",
     "static/css/main.2cce8147.chunk.css.map": "/rickandmorty.github.io/static/css/main.2cce8147.chunk.css.map"
   }
